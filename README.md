@@ -1,1 +1,2 @@
-# robot-arm-manipultation
+# Distributed Bearing Based Control
+
